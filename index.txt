@@ -1,1 +1,2 @@
 My first Git assignment.
+I must learn all the concepts related to git.
